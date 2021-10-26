@@ -4,7 +4,7 @@ Send a change from the remote repo to your local repo
 
 ## Resources
 
-- [Git Commit Documentation](https://git-scm.com/docs/git-pull)
+- [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 
 ---
 

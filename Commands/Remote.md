@@ -9,7 +9,7 @@ git remote remove origin
 
 ## Resources
 
-- [Git Commit Documentation](https://git-scm.com/docs/git-remote)
+- [Git Remote Documentation](https://git-scm.com/docs/git-remote)
 
 ---
 

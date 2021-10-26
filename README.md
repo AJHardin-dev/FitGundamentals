@@ -13,3 +13,4 @@ Here is a growing collenction of resources and helpful stuff, things, and other 
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
